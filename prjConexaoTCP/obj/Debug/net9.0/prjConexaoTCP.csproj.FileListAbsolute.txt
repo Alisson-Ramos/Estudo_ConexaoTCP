@@ -1,0 +1,14 @@
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\bin\Debug\net9.0\prjConexaoTCP.exe
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\bin\Debug\net9.0\prjConexaoTCP.deps.json
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\bin\Debug\net9.0\prjConexaoTCP.runtimeconfig.json
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\bin\Debug\net9.0\prjConexaoTCP.dll
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\bin\Debug\net9.0\prjConexaoTCP.pdb
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\obj\Debug\net9.0\prjConexaoTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\obj\Debug\net9.0\prjConexaoTCP.AssemblyInfoInputs.cache
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\obj\Debug\net9.0\prjConexaoTCP.AssemblyInfo.cs
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\obj\Debug\net9.0\prjConexaoTCP.csproj.CoreCompileInputs.cache
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\obj\Debug\net9.0\prjConexaoTCP.dll
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\obj\Debug\net9.0\refint\prjConexaoTCP.dll
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\obj\Debug\net9.0\prjConexaoTCP.pdb
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\obj\Debug\net9.0\prjConexaoTCP.genruntimeconfig.cache
+C:\Users\alisson.santos\Documents\Projetos_Implementacao\Organizacao_Projeto\Modulos\Client\prjConexaoTCP\obj\Debug\net9.0\ref\prjConexaoTCP.dll
